@@ -1,17 +1,17 @@
 # Chess-Logic
 
-A JavaScript Library for all the logic of Chess: piece placement/movement validation, and game state detection such as check/checkmate/stalemate.
+##### A JavaScript Library for all the logic of Chess: piece placement/movement validation, and game state detection such as check/checkmate/stalemate.
 
-### [API Examples](./LOGIC.md)
+# API &rarr; [detailed examples](./LOGIC.md)
 
-# Class Properties
+## Properties
 
-| .
+| STARTING_FEN &rarr; FEN string of initial board position
 |---
 
-# Methods
+## Methods
 
-## Board Methods
+### Board Methods
 
 | .clearBoard() &rarr; undefined
 |---
@@ -31,7 +31,7 @@ A JavaScript Library for all the logic of Chess: piece placement/movement valida
 | .validateFEN(fen) &rarr; Boolean
 |---
 
-## Game State Methods
+### Game State Methods
 
 | .determineIfCheck() &rarr; Boolean
 |---
@@ -54,7 +54,7 @@ A JavaScript Library for all the logic of Chess: piece placement/movement valida
 | .whoseTurnIsIt() &rarr; Color (String)
 |---
 
-## Data Methods
+### Data Methods
 
 | .getFEN() &rarr; FEN String
 |---

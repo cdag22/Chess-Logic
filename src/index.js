@@ -633,7 +633,6 @@ const ChessLogic = function ChessLogic(fenString) {
   // FUNCTIONS AND CONSTANTS TO EXPOSE
 
   return {
-    BIT_BOARDS,
     STARTING_FEN,
     clearBoard,
     loadFEN,
