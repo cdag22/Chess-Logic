@@ -19,7 +19,7 @@
 | .loadFEN(fen) &rarr; Boolean
 |---
 
-| .makeMove(move, [ options ]) &rarr; Boolean
+| .makeMove(fromSquare, toSquare) &rarr; Boolean
 |---
 
 | .resetBoard() &rarr; undefined
