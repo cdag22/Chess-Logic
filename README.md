@@ -1,5 +1,7 @@
 # Chess-Logic
 
+[![Build Status](https://travis-ci.org/cdag22/Chess-Logic.svg?branch=master)](https://travis-ci.org/cdag22/Chess-Logic)
+
 ##### A JavaScript Library for all the logic of Chess: piece placement/movement validation, and game state detection such as check/checkmate/stalemate.
 
 # API &rarr; [detailed examples](./LOGIC.md)
