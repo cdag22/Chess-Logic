@@ -3,4 +3,5 @@ node_js:
   - '10'
 cache: npm
 script:
-  - npm test
+  - npm run test
+  - travis_terminate 0
