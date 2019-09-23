@@ -1,0 +1,22 @@
+{
+  "name": "chess-logic",
+  "version": "1.0.0",
+  "description": "a javascript chess library for movement/piece generation, validation, and placement with check, checkmate, stalemate detection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdag22/Chess-Logic.git"
+  },
+  "author": "cj dagostino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdag22/Chess-Logic/issues"
+  },
+  "homepage": "https://github.com/cdag22/Chess-Logic#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
