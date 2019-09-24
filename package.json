@@ -4,7 +4,8 @@
   "description": "a javascript chess library for movement/piece generation, validation, and placement with check, checkmate, stalemate detection.",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watchAll"
+    "test": "jest",
+    "test:dev": "jest --watchAll"
   },
   "repository": {
     "type": "git",
